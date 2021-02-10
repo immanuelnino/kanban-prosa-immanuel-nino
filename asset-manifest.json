@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/kanban-prosa-immanuel-nino/static/css/main.50a38d95.chunk.css",
+    "main.js": "/kanban-prosa-immanuel-nino/static/js/main.3b003a24.chunk.js",
+    "main.js.map": "/kanban-prosa-immanuel-nino/static/js/main.3b003a24.chunk.js.map",
+    "runtime-main.js": "/kanban-prosa-immanuel-nino/static/js/runtime-main.e4cf315e.js",
+    "runtime-main.js.map": "/kanban-prosa-immanuel-nino/static/js/runtime-main.e4cf315e.js.map",
+    "static/css/2.150d169a.chunk.css": "/kanban-prosa-immanuel-nino/static/css/2.150d169a.chunk.css",
+    "static/js/2.acf1421f.chunk.js": "/kanban-prosa-immanuel-nino/static/js/2.acf1421f.chunk.js",
+    "static/js/2.acf1421f.chunk.js.map": "/kanban-prosa-immanuel-nino/static/js/2.acf1421f.chunk.js.map",
+    "static/js/3.7ae9f367.chunk.js": "/kanban-prosa-immanuel-nino/static/js/3.7ae9f367.chunk.js",
+    "static/js/3.7ae9f367.chunk.js.map": "/kanban-prosa-immanuel-nino/static/js/3.7ae9f367.chunk.js.map",
+    "index.html": "/kanban-prosa-immanuel-nino/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/kanban-prosa-immanuel-nino/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.50a38d95.chunk.css.map": "/kanban-prosa-immanuel-nino/static/css/main.50a38d95.chunk.css.map",
+    "static/js/2.acf1421f.chunk.js.LICENSE.txt": "/kanban-prosa-immanuel-nino/static/js/2.acf1421f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4cf315e.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.acf1421f.chunk.js",
+    "static/css/main.50a38d95.chunk.css",
+    "static/js/main.3b003a24.chunk.js"
+  ]
+}
